@@ -1,0 +1,1 @@
+All code examples in the folder was found at https://bonsaiden.github.io/JavaScript-Garden/
