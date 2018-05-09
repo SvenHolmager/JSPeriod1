@@ -4,4 +4,6 @@ const arg2 = process.argv[2];
 const buffer = fs.readFileSync(arg2);
 const data = buffer.toString();
 
-console.log(data.split("\n").length-1);
+var lines = data.split("\n").length-1
+
+console.log(lines);
